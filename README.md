@@ -24,4 +24,4 @@
 <img src="https://github.com/pratikNavapara009/News_Flutter_App/assets/121868551/2b610e65-ce58-4712-9c49-394c0e8e5979" width="220px">
 
 ## LICENSE :-
-LICENSE
+     -  https://github.com/pratikNavapara009/News_Flutter_App/blob/f9955ad9fb3d5232d77820c851d81428927504a6/LICENSE
